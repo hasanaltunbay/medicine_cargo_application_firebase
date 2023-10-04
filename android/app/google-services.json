@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "897530613903",
+    "project_id": "ilackargo",
+    "storage_bucket": "ilackargo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897530613903:android:2924b7bead469b4ae720fa",
+        "android_client_info": {
+          "package_name": "com.example.drug_shipping"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiR0RXwKuJLdga5Du7zRb0xd45oJ5_aSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
